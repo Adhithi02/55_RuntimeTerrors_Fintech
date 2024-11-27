@@ -1,4 +1,5 @@
 -----------------------------------Problem Definition:-----------------------------
+
 Personal Finance Manager with Smart Saving Planner
 Managing personal finances can be time-consuming and complex without the right tools to track expenses, monitor loans, and set savings goals. A streamlined solution is needed to provide actionable insights and personalized saving strategies.
 
