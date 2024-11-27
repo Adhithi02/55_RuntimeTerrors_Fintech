@@ -23,7 +23,7 @@ Input expenses by item name, cost, and category.
 Visualize expenses and borrowed/lent money using dynamic charts.
 
 AI-Powered Smart Saving Planner:
-Integrate a Gen AI tool to review your current budget and suggest adjustments according to your inputs .
+Integrate a  AI tool to review your current budget and suggest adjustments according to your inputs .
 Provide tailored recommendations for balancing essential spending, non-essentials, and savings based on your financial situation.
 
 Data Storage and Analysis:
