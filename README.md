@@ -71,10 +71,15 @@ Predicts savings and recommends personalized adjustments for better financial ma
 
 
 Key Technologies Used
+
 Flask: Web application framework for user interaction.
+
 Scikit-Learn: Machine learning library for model training.
+
 Pandas: Data manipulation and cleaning.
+
 RandomForestRegressor: AI model for predicting savings.
+
 Jinja2: Templating engine for dynamic content rendering.
 
 ---------------FILE PURPOSE------------------------
