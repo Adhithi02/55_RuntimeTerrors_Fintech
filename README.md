@@ -70,6 +70,8 @@ Predicts savings and recommends personalized adjustments for better financial ma
 
 
 
+
+
 Key Technologies Used
 
 Flask: Web application framework for user interaction.
