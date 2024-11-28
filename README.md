@@ -76,3 +76,13 @@ Pandas: Data manipulation and cleaning.
 RandomForestRegressor: AI model for predicting savings.
 Jinja2: Templating engine for dynamic content rendering.
 
+---------------FILE PURPOSE------------------------
+app.py:prediction model
+index.html-basic UI for prediction model
+result.html-displays result of predicted model
+realdata.csv:dataset used for training
+personal-tracker.html:trackers personal expenses and borrow and lent money
+index_up.html:integration page for personal tracker
+
+
+
