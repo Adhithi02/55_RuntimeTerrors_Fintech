@@ -59,6 +59,7 @@ Dynamic Expense Optimization:
 The system can suggest expense adjustments to balance savings and unexpected costs, focusing on reducing non-essential spending like travel or miscellaneous expenses while keeping necessary ones like rent fixed.
 
 Summary of the Workflow:
+
 Input Phase: Users provide data on their income and expenses.
 
 Processing Phase:
