@@ -39,8 +39,8 @@ Users enter details like Income, Rent, Grocery, Travel, and Other expenses throu
 Data Storage & Visualization:
 User inputs are dynamically stored and used to generate visualizations of spending patterns (optional feature using a chart library like Chart.js).
 
-3. AI-Powered Smart Saving Planner:
-4. 
+2.AI-Powered Smart Saving Planner:
+ 
 Data Processing:
 The system uses a CSV dataset (realdata.csv) containing historical financial data to train the model.
 Pandas library preprocesses the data by ensuring clean column names and structuring it for analysis.
